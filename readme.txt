@@ -9,4 +9,8 @@ fast test world
 
 merge on--ff test
 
+<<<<<<< Updated upstream
 Git is a free software .
+=======
+the document is changed
+>>>>>>> Stashed changes
